@@ -1,4 +1,10 @@
 # CODING-DOJO
 Coding event hosted by the CSI COEP. ( 15 sep ) .. 
 
-## Team COEPians
+## Team eigenVectors 
+- Darshan
+- Krushna
+- Anshul
+- Manthan
+- Swaraj
+- Yugankshi
